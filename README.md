@@ -1,1 +1,1 @@
-# bayeslab_prompt_assignment
+# bayeslab_prompt_assignment_customer_review_extraction
